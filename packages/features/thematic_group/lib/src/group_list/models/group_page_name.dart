@@ -1,0 +1,4 @@
+enum GroupPageName {
+  recommended,
+  myGroups,
+}

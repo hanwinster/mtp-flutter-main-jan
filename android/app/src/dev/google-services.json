@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554033497706",
+    "project_id": "myanmar-teacher-platform-stg",
+    "storage_bucket": "myanmar-teacher-platform-stg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554033497706:android:f19fc96d517d8a0059ec13",
+        "android_client_info": {
+          "package_name": "com.misfit.mtp.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIX7ty9zHzvw-8mRr8WR8NiA4GGrK1fGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554033497706:android:a62ab345f5693ea859ec13",
+        "android_client_info": {
+          "package_name": "com.misfit.mtp.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIX7ty9zHzvw-8mRr8WR8NiA4GGrK1fGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

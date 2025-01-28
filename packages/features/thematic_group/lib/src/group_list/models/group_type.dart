@@ -1,0 +1,1 @@
+enum GroupType { recommended, myGroups }

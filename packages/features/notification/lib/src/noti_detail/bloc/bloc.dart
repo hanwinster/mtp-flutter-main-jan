@@ -1,0 +1,1 @@
+export 'noti_detail_bloc.dart';

@@ -1,0 +1,4 @@
+enum OptionOrientation {
+  horizontal,
+  vertical,
+}

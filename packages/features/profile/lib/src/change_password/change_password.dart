@@ -1,0 +1,1 @@
+export 'ui/change_password_screen_entry.dart';

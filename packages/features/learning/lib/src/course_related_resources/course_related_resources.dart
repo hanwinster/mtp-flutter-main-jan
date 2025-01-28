@@ -1,0 +1,1 @@
+export 'ui/course_related_resources_screen_entry.dart';

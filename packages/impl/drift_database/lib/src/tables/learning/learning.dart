@@ -1,0 +1,13 @@
+export 'course_assessment_question_table.dart';
+export 'course_category_table.dart';
+export 'course_download_status_table.dart';
+export 'course_learner_table.dart';
+export 'course_table.dart';
+export 'learning_activity_table.dart';
+export 'learning_quiz_table.dart';
+export 'learning_summary_table.dart';
+export 'lecture_table.dart';
+export 'live_session_table.dart';
+export 'offline_course_media_table.dart';
+export 'offline_course_table.dart';
+export 'user_course_table.dart';

@@ -1,0 +1,35 @@
+# melos_managed_dependency_overrides: api,assets,base,data,database,debug,design_system,domain,drift_database,file_downloader,flavor,localization,offline_cache,preferences,questionnaire_kit,ui,web
+dependency_overrides:
+  api:
+    path: ../../core/api
+  assets:
+    path: ../../core/assets
+  base:
+    path: ../../core/base
+  data:
+    path: ../../core/data
+  database:
+    path: ../../core/database
+  debug:
+    path: ../../core/debug
+  design_system:
+    path: ../../core/design_system
+  domain:
+    path: ../../core/domain
+  drift_database:
+    path: ../../impl/drift_database
+  file_downloader:
+    path: ../../common/file_downloader
+  flavor:
+    path: ../../core/flavor
+  localization:
+    path: ../../core/localization
+  offline_cache:
+    path: ../../common/offline_cache
+  preferences:
+    path: ../../core/preferences
+  questionnaire_kit:
+    path: ../../common/questionnaire_kit
+  ui:
+    path: ../../core/ui
+  web: 1.0.0

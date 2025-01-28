@@ -1,0 +1,35 @@
+name: hive_preferences
+description: A new Flutter package project.
+version: 0.0.1
+publish_to: none
+
+scripts:
+  build_runner_build: dart run build_runner build --delete-conflicting-outputs
+  build_runner_watch: dart run build_runner watch --delete-conflicting-outputs
+
+environment:
+  sdk: ">=3.0.1 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  base:
+    path: ../../core/base
+  domain:
+    path: ../../core/domain
+  preferences:
+    path: ../../core/preferences
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.15
+  path: ^1.8.3
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+  test: ^1.24.1
+  mocktail: ^0.3.0
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.11

@@ -1,0 +1,11 @@
+export 'default_course_assessment_repository.dart';
+export 'default_course_category_repository.dart';
+export 'default_course_discussion_message_repository.dart';
+export 'default_course_repository.dart';
+export 'default_course_review_repository.dart';
+export 'default_evaluation_repository.dart';
+export 'default_learning_activity_repository.dart';
+export 'default_learning_quiz_repository.dart';
+export 'default_learning_summary_repository.dart';
+export 'default_lecture_repository.dart';
+export 'default_live_session_repository.dart';

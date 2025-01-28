@@ -1,0 +1,1 @@
+export 'course_related_resource_tile.dart';

@@ -1,0 +1,10 @@
+# melos_managed_dependency_overrides: api,base,domain,preferences
+dependency_overrides:
+  api:
+    path: ../../core/api
+  base:
+    path: ../../core/base
+  domain:
+    path: ../../core/domain
+  preferences:
+    path: ../../core/preferences

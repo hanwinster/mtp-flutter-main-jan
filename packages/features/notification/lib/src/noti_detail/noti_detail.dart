@@ -1,0 +1,1 @@
+export 'ui/noti_detail_entry.dart';

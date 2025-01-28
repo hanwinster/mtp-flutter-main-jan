@@ -1,0 +1,16 @@
+# melos_managed_dependency_overrides: api,base,data,database,domain,offline_cache,preferences
+dependency_overrides:
+  api:
+    path: ../../core/api
+  base:
+    path: ../../core/base
+  data:
+    path: ../../core/data
+  database:
+    path: ../../core/database
+  domain:
+    path: ../../core/domain
+  offline_cache:
+    path: ../offline_cache
+  preferences:
+    path: ../../core/preferences

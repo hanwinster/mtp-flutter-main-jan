@@ -1,0 +1,1 @@
+const double defaultImageAspectRatio = 16 / 9;

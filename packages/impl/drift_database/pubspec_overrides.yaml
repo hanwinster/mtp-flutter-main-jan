@@ -1,0 +1,11 @@
+# melos_managed_dependency_overrides: base,database,domain,preferences,web
+dependency_overrides:
+  base:
+    path: ../../core/base
+  database:
+    path: ../../core/database
+  domain:
+    path: ../../core/domain
+  preferences:
+    path: ../../core/preferences
+  web: ^1.0.0

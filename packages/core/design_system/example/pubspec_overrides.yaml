@@ -1,0 +1,12 @@
+# melos_managed_dependency_overrides: assets,base,design_system,domain,localization
+dependency_overrides:
+  assets:
+    path: ../../assets
+  base:
+    path: ../../base
+  design_system:
+    path: ..
+  domain:
+    path: ../../domain
+  localization:
+    path: ../../localization

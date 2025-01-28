@@ -1,0 +1,1 @@
+export 'ui/lecture_screen_entry.dart';

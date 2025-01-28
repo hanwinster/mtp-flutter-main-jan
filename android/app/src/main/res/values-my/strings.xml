@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="flutter_downloader_notification_started">စတင် ဒေါင်းလုဒ် နေပါပြီ</string>
+    <string name="flutter_downloader_notification_in_progress">ဒေါင်းလုဒ် လုပ်ဆောင်နေ</string>
+    <string name="flutter_downloader_notification_canceled">ဒေါင်းလုဒ် ပယ်ဖျက်လိုက်ပါပြီ</string>
+    <string name="flutter_downloader_notification_failed">ဒေါင်းလုဒ် မအောင်မြင်ပါ</string>
+    <string name="flutter_downloader_notification_complete">ဒေါင်းလုဒ် ပြီးသွားပါပြီ</string>
+    <string name="flutter_downloader_notification_paused">ဒေါင်းလုခ် ရပ်ထား</string>
+</resources>

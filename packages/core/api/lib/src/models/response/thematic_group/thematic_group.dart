@@ -1,0 +1,12 @@
+export './join_request/thematic_group_request_response_rm.dart';
+export './join_request/thematic_group_rules_response_rm.dart';
+export './posts/create/thematic_group_post_create_response_rm.dart';
+export './posts/details/group_post_details_rm.dart';
+export './posts/thematic_group_post_rm.dart';
+export './thematic_group_listing_rm.dart';
+export 'thematic_group_category_rm.dart';
+export 'thematic_group_post_comment_reply_rm.dart';
+export 'thematic_group_post_comment_rm.dart';
+export 'thematic_group_post_comment_user_rm.dart';
+export 'thematic_group_post_reaction_rm.dart';
+export 'thematic_group_reaction_to_type_rm.dart';

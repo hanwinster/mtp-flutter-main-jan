@@ -1,0 +1,26 @@
+name: domain
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+publish_to: none
+# repository: https://github.com/my_org/my_repo
+
+scripts:
+  build_runner_build: dart run build_runner build --delete-conflicting-outputs
+  build_runner_watch: dart run build_runner watch --delete-conflicting-outputs
+
+environment:
+  sdk: ^3.0.1
+
+# Add regular dependencies here.
+dependencies:
+  decimal: ^2.3.2
+  base:
+    path: ../base
+  uuid: ^4.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  mocktail: ^0.3.0
+  test: ^1.24.3
+  build_runner: ^2.4.11
+  build_verify: any

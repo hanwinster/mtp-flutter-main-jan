@@ -1,0 +1,24 @@
+# melos_managed_dependency_overrides: assets,base,database,debug,design_system,domain,drift_database,flavor,localization,preferences,ui
+dependency_overrides:
+  assets:
+    path: ../../core/assets
+  base:
+    path: ../../core/base
+  database:
+    path: ../../core/database
+  debug:
+    path: ../../core/debug
+  design_system:
+    path: ../../core/design_system
+  domain:
+    path: ../../core/domain
+  drift_database:
+    path: ../../impl/drift_database
+  flavor:
+    path: ../../core/flavor
+  localization:
+    path: ../../core/localization
+  preferences:
+    path: ../../core/preferences
+  ui:
+    path: ../../core/ui
